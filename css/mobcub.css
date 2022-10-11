@@ -1,0 +1,17 @@
+.box{
+    width: 510px;
+}
+.bggradient{
+    
+
+    background: rgb(123,237,228);
+    background: linear-gradient(90deg, rgba(123,237,228,1) 13%, rgba(71,228,197,1) 63%);
+}
+.bgpowderblue{
+    background-color:#4e54c8;
+}
+.btnline{
+    width: 3px;
+    height: 1px;
+    background-color: white;
+}
